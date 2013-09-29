@@ -1,0 +1,8 @@
+{
+  "name": "digest",
+  "description": "Meteor smart package for digest.js",
+  "homepage": "https://github.com/peerlibrary/meteor-digest",
+  "author": "The PeerLibrary Project",
+  "version": "0.1.0",
+  "git": "https://github.com/peerlibrary/meteor-digest.git"
+}
