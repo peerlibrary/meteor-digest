@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Meteor smart package for digest.js"
+  summary: "Cryptographic digest and HMAC algorithms in Javascript for modern web browsers"
 });
 
 Package.on_use(function (api) {

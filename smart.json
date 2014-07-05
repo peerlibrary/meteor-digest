@@ -1,6 +1,6 @@
 {
   "name": "digest",
-  "description": "Meteor smart package for digest.js",
+  "description": "Cryptographic digest and HMAC algorithms in Javascript for modern web browsers",
   "homepage": "https://github.com/peerlibrary/meteor-digest",
   "author": "The PeerLibrary Project",
   "version": "0.1.1",
