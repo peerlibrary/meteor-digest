@@ -1,4 +1,4 @@
-Tinytest.add('meteor-digest', function (test) {
+Tinytest.add('digest', function (test) {
   var isDefined = false;
   try {
     Digest;
