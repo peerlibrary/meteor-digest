@@ -1,3 +1,0 @@
-[submodule "digest"]
-	path = digest
-	url = git://github.com/jcsirot/digest.js.git

@@ -5,6 +5,10 @@
       "1.0.3"
     ],
     [
+      "peerlibrary:digest",
+      "0.1.3"
+    ],
+    [
       "underscore",
       "1.0.0"
     ]
