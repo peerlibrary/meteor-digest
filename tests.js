@@ -7,7 +7,7 @@ Tinytest.add('digest', function (test) {
   catch (e) {
   }
   test.isTrue(isDefined, "Digest is not defined");
-  test.isTrue(Package.digest.Digest, "Package.digest.Digest is not defined");
+  test.isTrue(Package['peerlibrary:digest'].Digest, "Package.peerlibrary:digest.Digest is not defined");
 
   var digest = new Digest.SHA256();
   digest.update("Test.");
