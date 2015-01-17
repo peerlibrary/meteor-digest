@@ -12,5 +12,5 @@ Installation
 ------------
 
 ```
-mrt add digest
+meteor add peerlibrary:digest
 ```
