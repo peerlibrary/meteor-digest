@@ -11,7 +11,7 @@ Package.on_use(function (api) {
 
   api.add_files([
     'digest/digest.js'
-  ], 'client', {bare: true});
+  ], 'client', {bare: true, isAsset: true});
 });
 
 Package.on_test(function (api) {
